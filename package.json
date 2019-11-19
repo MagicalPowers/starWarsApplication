@@ -12,6 +12,6 @@
     "start": "node server.js",
     "watch": "nodemon server.js"
   },
-  "author": "",
+  "author": "J.R. 'Bob' Dobbs",
   "license": "ISC"
 }
